@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://D:/work/projectCodes/newCard_Project/server/KenanGame/.idea/KenanGame.iml" filepath="D:/work/projectCodes/newCard_Project/server/KenanGame/.idea/KenanGame.iml" />
+      <module fileurl="file://D:/work/projectCodes/newCard_Project/server/QiYueHuanShiLu/.idea/QiYueHuanShiLu.iml" filepath="D:/work/projectCodes/newCard_Project/server/QiYueHuanShiLu/.idea/QiYueHuanShiLu.iml" />
+      <module fileurl="file://D:/work/projectCodes/newCard_Project/server/SanGuoGuaJi/.idea/SanGuoGuaJi.iml" filepath="D:/work/projectCodes/newCard_Project/server/SanGuoGuaJi/.idea/SanGuoGuaJi.iml" />
+      <module fileurl="file://D:/work/projectCodes/newCard_Project/server/TanWanSanGuo_HanGuo/.idea/TanWanSanGuo_HanGuo.iml" filepath="D:/work/projectCodes/newCard_Project/server/TanWanSanGuo_HanGuo/.idea/TanWanSanGuo_HanGuo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../dobee/.idea/dobee.iml" filepath="$PROJECT_DIR$/../dobee/.idea/dobee.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../easyswoole/.idea/easyswoole.iml" filepath="$PROJECT_DIR$/../easyswoole/.idea/easyswoole.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mixphp-1.0.6/.idea/mixphp-1.0.6.iml" filepath="$PROJECT_DIR$/../mixphp-1.0.6/.idea/mixphp-1.0.6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/newcard.iml" filepath="$PROJECT_DIR$/.idea/newcard.iml" />
+      <module fileurl="file://D:/work/projectCodes/newCard_Project/server/sanGuows/.idea/sanGuows.iml" filepath="D:/work/projectCodes/newCard_Project/server/sanGuows/.idea/sanGuows.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../www/.idea/www.iml" filepath="$PROJECT_DIR$/../www/.idea/www.iml" />
+    </modules>
+  </component>
+</project>

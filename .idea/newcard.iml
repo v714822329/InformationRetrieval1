@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="www" />
+    <orderEntry type="module" module-name="QiYueHuanShiLu" />
+    <orderEntry type="module" module-name="KenanGame" />
+    <orderEntry type="module" module-name="SanGuoGuaJi" />
+    <orderEntry type="module" module-name="TanWanSanGuo_HanGuo" />
+    <orderEntry type="module" module-name="sanGuows" />
+    <orderEntry type="module" module-name="mixphp-1.0.6" />
+    <orderEntry type="module" module-name="easyswoole" />
+    <orderEntry type="module" module-name="dobee" />
+  </component>
+</module>
