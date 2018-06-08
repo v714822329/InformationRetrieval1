@@ -1,0 +1,1 @@
+new game card server
