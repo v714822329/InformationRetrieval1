@@ -1,8 +1,0 @@
-{
-"1":{"id":1,"rankMin":1,"rankMax":20,"flowingFoodMin":5500,"flowingFoodMax":6000},
-"2":{"id":2,"rankMin":21,"rankMax":50,"flowingFoodMin":5000,"flowingFoodMax":5500},
-"3":{"id":3,"rankMin":51,"rankMax":200,"flowingFoodMin":4500,"flowingFoodMax":5000},
-"4":{"id":4,"rankMin":201,"rankMax":500,"flowingFoodMin":4000,"flowingFoodMax":4500},
-"5":{"id":5,"rankMin":501,"rankMax":1000,"flowingFoodMin":3500,"flowingFoodMax":4000},
-"6":{"id":6,"rankMin":1001,"rankMax":0,"flowingFoodMin":3000,"flowingFoodMax":3500}
-}

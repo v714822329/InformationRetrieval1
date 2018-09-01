@@ -1,9 +1,0 @@
-{
-"1":{"number_1":1,"number_days":1,"optional":0,"rewardid1":43501,"reward_number1":500,"rewardid2":40521,"reward_number2":200,"rewardid3":45002,"reward_number3":10,"rewardid4":43505,"reward_number4":500},
-"2":{"number_1":2,"number_days":2,"optional":0,"rewardid1":43501,"reward_number1":500,"rewardid2":40521,"reward_number2":300,"rewardid3":45002,"reward_number3":10,"rewardid4":43505,"reward_number4":500},
-"3":{"number_1":3,"number_days":3,"optional":0,"rewardid1":43501,"reward_number1":1000,"rewardid2":40521,"reward_number2":400,"rewardid3":45002,"reward_number3":10,"rewardid4":43505,"reward_number4":1000},
-"4":{"number_1":4,"number_days":4,"optional":0,"rewardid1":43501,"reward_number1":1000,"rewardid2":40521,"reward_number2":500,"rewardid3":45002,"reward_number3":10,"rewardid4":43505,"reward_number4":1000},
-"5":{"number_1":5,"number_days":5,"optional":0,"rewardid1":43501,"reward_number1":1000,"rewardid2":40521,"reward_number2":600,"rewardid3":45002,"reward_number3":10,"rewardid4":43505,"reward_number4":1000},
-"6":{"number_1":6,"number_days":6,"optional":0,"rewardid1":43501,"reward_number1":3000,"rewardid2":40521,"reward_number2":700,"rewardid3":45002,"reward_number3":10,"rewardid4":43505,"reward_number4":3000},
-"7":{"number_1":7,"number_days":7,"optional":0,"rewardid1":43501,"reward_number1":3000,"rewardid2":40521,"reward_number2":800,"rewardid3":45002,"reward_number3":10,"rewardid4":43505,"reward_number4":3000}
-}

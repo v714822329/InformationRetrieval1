@@ -1,9 +1,0 @@
-{
-"1":{"id":1,"rankMin":1,"rankMax":1,"dayObjID":[41059],"dayObjNum":[1],"weekObjID":[43501],"weekObjNum":[1500]},
-"2":{"id":2,"rankMin":2,"rankMax":2,"dayObjID":[41060],"dayObjNum":[1],"weekObjID":[40541,41022,41012],"weekObjNum":[50,10,10]},
-"3":{"id":3,"rankMin":3,"rankMax":3,"dayObjID":[41061],"dayObjNum":[1],"weekObjID":[40541,41022,41012],"weekObjNum":[45,8,8]},
-"4":{"id":4,"rankMin":4,"rankMax":10,"dayObjID":[41062],"dayObjNum":[1],"weekObjID":[40541,41022],"weekObjNum":[60,10]},
-"5":{"id":5,"rankMin":11,"rankMax":15,"dayObjID":[41063],"dayObjNum":[1],"weekObjID":[40541,41022],"weekObjNum":[40,10]},
-"6":{"id":6,"rankMin":16,"rankMax":20,"dayObjID":[41064],"dayObjNum":[1],"weekObjID":[40541],"weekObjNum":[80]},
-"7":{"id":7,"rankMin":21,"rankMax":30,"dayObjID":[41065],"dayObjNum":[1],"weekObjID":[40541],"weekObjNum":[60]}
-}

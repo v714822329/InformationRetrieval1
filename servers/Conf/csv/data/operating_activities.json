@@ -1,8 +1,0 @@
-{
-"1":{"id":1,"activity_id":1,"activity_name":"每日签到","activity_icon":"item_baoxiang_jinglian","ui_id":1},
-"2":{"id":2,"activity_id":101,"activity_name":"登陆送礼","activity_icon":"item_baoxiang_jingling_2","ui_id":2,"picture_resources":"gaiya"},
-"3":{"id":3,"activity_id":501,"activity_name":"单冲送礼","activity_icon":"item_baoxiang_jinglian","ui_id":3,"picture_resources":"dadikaxiusi"},
-"4":{"id":4,"activity_id":1001,"activity_name":"凌云阁","activity_icon":"item_baoxiang_jingling_2","ui_id":4,"picture_resources":"gaiya"},
-"5":{"id":5,"activity_id":1501,"activity_name":"围剿海盗","activity_icon":"item_baoxiang_jinglian","ui_id":5,"picture_resources":"dadikaxiusi"},
-"6":{"id":6,"activity_id":2001,"activity_name":"星际远征","activity_icon":"item_baoxiang_jingling_2","ui_id":9,"picture_resources":"gaiya"}
-}

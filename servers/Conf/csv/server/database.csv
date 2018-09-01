@@ -1,6 +1,0 @@
-id|name|host|port|schema|user|passwd
-1|accountdb|127.0.0.1|3306|guaji_accountdb|root|203.123
-2|oplogdb|127.0.0.1|3306|guaji_oplogdb_0001|root|203.123
-3|gamedb|127.0.0.1|3306|guaji_gamedb_0001|root|203.123
-4|tmtransdb|127.0.0.1|3306|guaji_transaction|root|203.123
-5|globaldb|127.0.0.1|3306|guaji_globaldb|root|203.123
