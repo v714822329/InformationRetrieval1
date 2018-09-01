@@ -1,0 +1,11 @@
+{
+"3":{"id":3,"needWinCount":3,"objID":[43555],"objNum":[150]},
+"5":{"id":5,"needWinCount":5,"objID":[43555],"objNum":[200]},
+"10":{"id":10,"needWinCount":10,"objID":[43555],"objNum":[300]},
+"15":{"id":15,"needWinCount":15,"objID":[43555],"objNum":[450]},
+"20":{"id":20,"needWinCount":20,"objID":[43555],"objNum":[600]},
+"25":{"id":25,"needWinCount":25,"objID":[43555],"objNum":[800]},
+"30":{"id":30,"needWinCount":30,"objID":[43555],"objNum":[1000]},
+"40":{"id":40,"needWinCount":40,"objID":[43555],"objNum":[1200]},
+"50":{"id":50,"needWinCount":50,"objID":[43555],"objNum":[1500]}
+}

@@ -1,0 +1,10 @@
+{
+"1":{"ID":1,"name":"500001","order":1,"needMecha":[102001,102002],"effectType1":5,"effectValue1":1200,"effectType2":0,"effectValue2":0,"effectType3":0,"effectValue3":0},
+"2":{"ID":2,"name":"500002","order":2,"needMecha":[102003,102004],"effectType1":2,"effectValue1":40000,"effectType2":0,"effectValue2":0,"effectType3":0,"effectValue3":0},
+"3":{"ID":3,"name":"500003","order":3,"needMecha":[102005,102006],"effectType1":1,"effectValue1":3000,"effectType2":116,"effectValue2":1000,"effectType3":115,"effectValue3":1000},
+"4":{"ID":4,"name":"500004","order":4,"needMecha":[102007,102008],"effectType1":5,"effectValue1":3000,"effectType2":116,"effectValue2":1000,"effectType3":115,"effectValue3":1000},
+"5":{"ID":5,"name":"500005","order":5,"needMecha":[102009,102010],"effectType1":2,"effectValue1":40000,"effectType2":116,"effectValue2":1000,"effectType3":115,"effectValue3":1000},
+"6":{"ID":6,"name":"500006","order":6,"needMecha":[102011,102012],"effectType1":5,"effectValue1":3500,"effectType2":116,"effectValue2":1000,"effectType3":115,"effectValue3":1000},
+"7":{"ID":7,"name":"500007","order":7,"needMecha":[102013,102014],"effectType1":2,"effectValue1":80000,"effectType2":116,"effectValue2":2000,"effectType3":115,"effectValue3":2000},
+"8":{"ID":8,"name":"500008","order":8,"needMecha":[102015,102016],"effectType1":1,"effectValue1":10000,"effectType2":116,"effectValue2":2000,"effectType3":115,"effectValue3":2000}
+}

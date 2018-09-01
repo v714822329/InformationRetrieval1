@@ -1,0 +1,17 @@
+{
+"1":{"ID":1,"sort":1,"objID":20082,"objNum":3,"currencyType":[45102,45103,45104],"currencyValue":[1,2,3],"limit":0},
+"2":{"ID":2,"sort":2,"objID":20033,"objNum":3,"currencyType":[45102,45103,45104],"currencyValue":[1,2,3],"limit":0},
+"3":{"ID":3,"sort":3,"objID":20083,"objNum":3,"currencyType":[45102,45103,45104],"currencyValue":[1,2,3],"limit":0},
+"5":{"ID":5,"sort":5,"objID":20007,"objNum":1,"currencyType":[45102,45103,45104],"currencyValue":[1,2,3],"limit":0},
+"6":{"ID":6,"sort":6,"objID":20060,"objNum":1,"currencyType":[45102,45103,45104],"currencyValue":[1,2,3],"limit":0},
+"7":{"ID":7,"sort":7,"objID":40551,"objNum":50,"currencyType":[45102,45103,45104],"currencyValue":[1,2,3],"limit":3},
+"8":{"ID":8,"sort":8,"objID":40551,"objNum":1,"currencyType":[45102,45103,45104],"currencyValue":[1,2,3],"limit":100},
+"9":{"ID":9,"sort":9,"objID":40551,"objNum":10,"currencyType":[45102,45103,45104],"currencyValue":[1,2,3],"limit":10},
+"10":{"ID":10,"sort":10,"objID":40551,"objNum":100,"currencyType":[45102,45103,45104],"currencyValue":[1,2,3],"limit":1},
+"11":{"ID":11,"sort":11,"objID":40531,"objNum":1,"currencyType":[45102,45103,45104],"currencyValue":[1,2,3],"limit":50},
+"12":{"ID":12,"sort":12,"objID":40531,"objNum":10,"currencyType":[45102,45103,45104],"currencyValue":[1,2,3],"limit":5},
+"13":{"ID":13,"sort":13,"objID":40531,"objNum":50,"currencyType":[45102,45103,45104],"currencyValue":[1,2,3],"limit":1},
+"14":{"ID":14,"sort":14,"objID":40521,"objNum":1,"currencyType":[45102,45103,45104],"currencyValue":[1,2,3],"limit":100},
+"15":{"ID":15,"sort":15,"objID":40521,"objNum":10,"currencyType":[45102,45103,45104],"currencyValue":[1,2,3],"limit":10},
+"16":{"ID":16,"sort":16,"objID":40521,"objNum":100,"currencyType":[45102,45103,45104],"currencyValue":[1,2,3],"limit":1}
+}

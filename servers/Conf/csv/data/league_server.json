@@ -1,0 +1,6 @@
+{
+"1001":{"id":1001,"sec":1,"group":1,"serverMin":1,"serverMax":2},
+"1002":{"id":1002,"sec":1,"group":2,"serverMin":3,"serverMax":100},
+"2001":{"id":2001,"sec":2,"group":1,"serverMin":1,"serverMax":1},
+"2002":{"id":2002,"sec":2,"group":2,"serverMin":2,"serverMax":7}
+}

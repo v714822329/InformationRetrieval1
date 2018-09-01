@@ -1,0 +1,8 @@
+{
+"1":{"number_1":1,"Recharge_number":6,"number":0,"number_of_times":3,"optional":0,"rewardid1":45510,"reward_number1":45,"rewardid2":45208,"reward_number2":1,"rewardid3":0,"reward_number3":0,"rewardid4":0,"reward_number4":0},
+"2":{"number_1":2,"Recharge_number":30,"number":0,"number_of_times":3,"optional":1,"rewardid1":10033,"reward_number1":1,"rewardid2":10082,"reward_number2":1,"rewardid3":10053,"reward_number3":1,"rewardid4":0,"reward_number4":0},
+"3":{"number_1":3,"Recharge_number":50,"number":0,"number_of_times":4,"optional":0,"rewardid1":42005,"reward_number1":10,"rewardid2":42505,"reward_number2":10,"rewardid3":45208,"reward_number3":12,"rewardid4":0,"reward_number4":0},
+"4":{"number_1":4,"Recharge_number":128,"number":0,"number_of_times":3,"optional":0,"rewardid1":45041,"reward_number1":120,"rewardid2":45208,"reward_number2":24,"rewardid3":0,"reward_number3":0,"rewardid4":0,"reward_number4":0},
+"5":{"number_1":5,"Recharge_number":288,"number":0,"number_of_times":3,"optional":0,"rewardid1":40551,"reward_number1":1000,"rewardid2":45208,"reward_number2":36,"rewardid3":0,"reward_number3":0,"rewardid4":0,"reward_number4":0},
+"6":{"number_1":6,"Recharge_number":548,"number":0,"number_of_times":3,"optional":0,"rewardid1":44001,"reward_number1":2000,"rewardid2":45208,"reward_number2":48,"rewardid3":0,"reward_number3":0,"rewardid4":0,"reward_number4":0}
+}

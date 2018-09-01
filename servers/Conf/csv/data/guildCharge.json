@@ -1,0 +1,5 @@
+{
+"1":{"id":1,"needId":43001,"needCount":10000,"needVip":0,"progress":1,"rewardExp":5,"rewardContri":100,"critRate":1000,"critRewardExp":10},
+"2":{"id":2,"needId":43501,"needCount":30,"needVip":0,"progress":3,"rewardExp":50,"rewardContri":500,"critRate":1000,"critRewardExp":100},
+"3":{"id":3,"needId":43501,"needCount":298,"needVip":2,"progress":5,"rewardExp":300,"rewardContri":3000,"critRate":1000,"critRewardExp":600}
+}

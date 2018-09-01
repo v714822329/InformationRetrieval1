@@ -1,0 +1,10 @@
+{
+"1":{"number_1":1,"condType":1105,"Day_number":5,"Recharge_number":6,"number_of_times":1,"optional":0,"rewardid1":40521,"reward_number1":300,"rewardid2":0,"reward_number2":0,"rewardid3":0,"reward_number3":0,"rewardid4":0,"reward_number4":0},
+"2":{"number_1":2,"condType":1105,"Day_number":5,"Recharge_number":6,"number_of_times":1,"optional":0,"rewardid1":40531,"reward_number1":100,"rewardid2":0,"reward_number2":0,"rewardid3":0,"reward_number3":0,"rewardid4":0,"reward_number4":0},
+"3":{"number_1":3,"condType":1105,"Day_number":5,"Recharge_number":6,"number_of_times":1,"optional":0,"rewardid1":45515,"reward_number1":20,"rewardid2":0,"reward_number2":0,"rewardid3":0,"reward_number3":0,"rewardid4":0,"reward_number4":0},
+"4":{"number_1":4,"condType":1105,"Day_number":5,"Recharge_number":6,"number_of_times":1,"optional":0,"rewardid1":45230,"reward_number1":5,"rewardid2":0,"reward_number2":0,"rewardid3":0,"reward_number3":0,"rewardid4":0,"reward_number4":0},
+"5":{"number_1":5,"condType":1105,"Day_number":5,"Recharge_number":6,"number_of_times":1,"optional":0,"rewardid1":40541,"reward_number1":200,"rewardid2":0,"reward_number2":0,"rewardid3":0,"reward_number3":0,"rewardid4":0,"reward_number4":0},
+"6":{"number_1":6,"condType":1105,"Day_number":5,"Recharge_number":6,"number_of_times":1,"optional":0,"rewardid1":41128,"reward_number1":1,"rewardid2":0,"reward_number2":0,"rewardid3":0,"reward_number3":0,"rewardid4":0,"reward_number4":0},
+"7":{"number_1":7,"condType":1105,"Day_number":5,"Recharge_number":6,"number_of_times":1,"optional":0,"rewardid1":45071,"reward_number1":10,"rewardid2":0,"reward_number2":0,"rewardid3":0,"reward_number3":0,"rewardid4":0,"reward_number4":0},
+"8":{"number_1":8,"condType":1105,"Day_number":5,"Recharge_number":30,"number_of_times":1,"optional":1,"rewardid1":10033,"reward_number1":1,"rewardid2":10101,"reward_number2":1,"rewardid3":10099,"reward_number3":1,"rewardid4":0,"reward_number4":0}
+}

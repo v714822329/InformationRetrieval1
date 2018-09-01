@@ -1,0 +1,8 @@
+{
+"1":{"id":1,"name":"290001","hpExpend":0,"petID":10032,"petDialogue":"290007","weekday":[1,3,5,7],"ICON":"bt_003"},
+"2":{"id":2,"name":"290002","hpExpend":0,"petID":10082,"petDialogue":"290008","weekday":[1,3,5,7],"ICON":"bt_001"},
+"3":{"id":3,"name":"290003","hpExpend":0,"petID":10098,"petDialogue":"290009","weekday":[1,3,5,7],"ICON":"bt_005"},
+"4":{"id":4,"name":"290004","hpExpend":0,"petID":10112,"petDialogue":"290010","weekday":[2,4,6,7],"ICON":"bt_006"},
+"5":{"id":5,"name":"290005","hpExpend":0,"petID":10114,"petDialogue":"290011","weekday":[2,4,6,7],"ICON":"bt_004"},
+"6":{"id":6,"name":"290006","hpExpend":0,"petID":10116,"petDialogue":"290012","weekday":[2,4,6,7],"ICON":"bt_002"}
+}

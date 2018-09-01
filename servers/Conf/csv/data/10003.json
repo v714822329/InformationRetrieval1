@@ -1,0 +1,6 @@
+{
+"1":{"number_1":1,"type":10,"number":2,"number_of_times":1,"optional":0,"rewardid1":47001,"reward_number1":300,"rewardid2":0,"reward_number2":0,"rewardid3":0,"reward_number3":0,"rewardid4":0,"reward_number4":0},
+"2":{"number_1":2,"type":10,"number":5,"number_of_times":1,"optional":0,"rewardid1":47001,"reward_number1":500,"rewardid2":0,"reward_number2":0,"rewardid3":0,"reward_number3":0,"rewardid4":0,"reward_number4":0},
+"3":{"number_1":3,"type":10,"number":10,"number_of_times":1,"optional":0,"rewardid1":47001,"reward_number1":750,"rewardid2":0,"reward_number2":0,"rewardid3":0,"reward_number3":0,"rewardid4":0,"reward_number4":0},
+"4":{"number_1":4,"type":10,"number":20,"number_of_times":1,"optional":0,"rewardid1":47001,"reward_number1":900,"rewardid2":0,"reward_number2":0,"rewardid3":0,"reward_number3":0,"rewardid4":0,"reward_number4":0}
+}

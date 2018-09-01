@@ -1,0 +1,8 @@
+{
+"1":{"id":1,"name":"520001","isSelf":1,"needMinebaseLevel":1,"expReward":20,"petFragmentRewardRate":0,"specialty":[42505,43001],"rewardShowIcon":[43501,43001,42505,43001],"rewardShowCount":[1518,2588888,2,2,100000],"rewardContent":[21000121]},
+"11":{"id":11,"name":"520002","isSelf":0,"needMinebaseLevel":1,"expReward":10,"petFragmentRewardRate":0,"specialty":[41022,41016,45520],"rewardShowIcon":[43501,43001,41022,41016,45520],"rewardShowCount":[1666,3088888,2,2,4],"rewardContent":[21001121]},
+"12":{"id":12,"name":"520003","isSelf":0,"needMinebaseLevel":1,"expReward":10,"petFragmentRewardRate":0,"specialty":[41012,45041,43001],"rewardShowIcon":[43501,43001,41012,45041,43001],"rewardShowCount":[1768,3588888,2,4,150000],"rewardContent":[21001221]},
+"13":{"id":13,"name":"520004","isSelf":0,"needMinebaseLevel":1,"expReward":10,"petFragmentRewardRate":0,"specialty":[40541,40531,40521],"rewardShowIcon":[43501,43001,40541,40531,40521],"rewardShowCount":[1888,4088888,4,10,4],"rewardContent":[21001321]},
+"14":{"id":14,"name":"520005","isSelf":0,"needMinebaseLevel":5,"expReward":10,"petFragmentRewardRate":0,"specialty":[47501,43001,43501],"rewardShowIcon":[43501,43001,47501,43001,43501],"rewardShowCount":[1918,4588888,20,40,20],"rewardContent":[21001421]},
+"15":{"id":15,"name":"520006","isSelf":0,"needMinebaseLevel":8,"expReward":10,"petFragmentRewardRate":0,"specialty":[44001,40551,43001],"rewardShowIcon":[43501,43001,44001,40551,43001],"rewardShowCount":[2218,6088888,100,4,250000],"rewardContent":[21001521]}
+}

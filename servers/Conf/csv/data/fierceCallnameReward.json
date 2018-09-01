@@ -1,0 +1,9 @@
+{
+"1001":{"id":1001,"callnameID":1001,"needRank":10,"needHonor":4800},
+"1002":{"id":1002,"callnameID":1002,"needRank":100,"needHonor":4000},
+"1003":{"id":1003,"callnameID":1003,"needRank":300,"needHonor":3000},
+"1004":{"id":1004,"callnameID":1004,"needRank":0,"needHonor":3000},
+"1005":{"id":1005,"callnameID":1005,"needRank":0,"needHonor":1000},
+"1006":{"id":1006,"callnameID":1006,"needRank":0,"needHonor":500},
+"1007":{"id":1007,"callnameID":1007,"needRank":0,"needHonor":0}
+}

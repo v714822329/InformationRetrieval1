@@ -1,0 +1,31 @@
+name|value|desc
+zone_id|1|分区ID
+zone_name|英雄大乱斗2正式服|111
+server_id|1|服务器ID,全区唯一
+server_open_date|20170410|服务器开服时间
+server_name|英雄大乱斗2正式服|服务器名称，全区唯一
+server_version|10000|主版本号.次版本号.资源版本号.build号
+server_maintain|0|非维护状态 0,维护状态 1
+server_model|0|服务器模式：0测试模式(相应的值不填则不校验) 1正式模式
+server_version_verify|0|不验证版本号 0， 验证版本号 1
+server_token_verify|1|
+server_sign_verify|1|
+app_key|61556FB3A0FE41DCB87127FF4A56A80F|
+accountdb_worker_pid|/home/SanGuoGuaJi/seer/seer1/run/worker/accountdb_worker.pid|
+gamedb_worker_pid|/home/SanGuoGuaJi/seer/seer1/run/worker/gamedb_worker.pid|
+oplogdb_worker_pid|/home/SanGuoGuaJi/seer/seer1/run/worker/oplogdb_worker.pid|
+oplogdb_timer_pid|/home/SanGuoGuaJi/seer/seer1/run/worker/oplogdb_timer.pid|
+log_dir_win|/home/SanGuoGuaJi/seer/seer1/logs/game/|
+log_dir_linux|/home/SanGuoGuaJi/seer/seer1/logs/game/|
+log_dir_accountdb_worker|/home/SanGuoGuaJi/seer/seer1/logs/accountdb_worker/|
+log_dir_gamedb_worker|/home/SanGuoGuaJi/seer/seer1/logs/gamedb_worker/|
+log_dir_oplogdb_worker|/home/SanGuoGuaJi/seer/seer1/logs/oplogdb_worker/|
+log_dir_oplogdb_timer|/home/SanGuoGuaJi/seer/seer1/logs/oplog_timer/|
+log_name|seer|
+log_interval_min|15|每小时内日志的间隔按分钟计算()
+log_fatal_enable|1|
+log_error_enable|1|
+log_warn_enable|0|
+log_info_enable|0|
+log_debug_enable|0|
+log_sql_enable|0|

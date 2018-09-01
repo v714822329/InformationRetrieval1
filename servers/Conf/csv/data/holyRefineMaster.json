@@ -1,0 +1,12 @@
+{
+"1":{"level":1,"equipLevel":5,"effectType1":5,"effectValue1":500,"effectType2":55,"effectValue2":1200},
+"2":{"level":2,"equipLevel":10,"effectType1":5,"effectValue1":1000,"effectType2":55,"effectValue2":2400},
+"3":{"level":3,"equipLevel":15,"effectType1":5,"effectValue1":2000,"effectType2":55,"effectValue2":3600},
+"4":{"level":4,"equipLevel":20,"effectType1":5,"effectValue1":3000,"effectType2":55,"effectValue2":4800},
+"5":{"level":5,"equipLevel":25,"effectType1":5,"effectValue1":5000,"effectType2":55,"effectValue2":6000},
+"6":{"level":6,"equipLevel":30,"effectType1":5,"effectValue1":7000,"effectType2":55,"effectValue2":7200},
+"7":{"level":7,"equipLevel":35,"effectType1":5,"effectValue1":10000,"effectType2":55,"effectValue2":8400},
+"8":{"level":8,"equipLevel":40,"effectType1":5,"effectValue1":13000,"effectType2":55,"effectValue2":9600},
+"9":{"level":9,"equipLevel":45,"effectType1":5,"effectValue1":16000,"effectType2":55,"effectValue2":10800},
+"10":{"level":10,"equipLevel":50,"effectType1":5,"effectValue1":20000,"effectType2":55,"effectValue2":12000}
+}

@@ -1,0 +1,10 @@
+{
+"1":{"id":1,"rankMin":1,"rankMax":1,"objID":[45071,40541],"objNum":[30,500]},
+"2":{"id":2,"rankMin":2,"rankMax":2,"objID":[45071,40541],"objNum":[30,300]},
+"3":{"id":3,"rankMin":3,"rankMax":3,"objID":[45071,40541],"objNum":[25,200]},
+"4":{"id":4,"rankMin":4,"rankMax":5,"objID":[45071],"objNum":[25]},
+"5":{"id":5,"rankMin":6,"rankMax":10,"objID":[45071],"objNum":[20]},
+"6":{"id":6,"rankMin":11,"rankMax":30,"objID":[45071],"objNum":[15]},
+"7":{"id":7,"rankMin":31,"rankMax":50,"objID":[45071],"objNum":[10]},
+"8":{"id":8,"rankMin":51,"rankMax":100,"objID":[45071],"objNum":[5]}
+}

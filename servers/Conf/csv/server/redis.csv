@@ -1,0 +1,6 @@
+id|name|host|port|auth|selectdb
+1|accountCache|127.0.0.1|6000||
+2|gameCache|127.0.0.1|6003||
+3|gameRedis|127.0.0.1|6004||
+4|chatRedis|127.0.0.1|6001||
+5|globalRedis|127.0.0.1|6001||

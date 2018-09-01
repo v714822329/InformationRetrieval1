@@ -1,0 +1,6 @@
+{
+"1":{"number_1":1,"full_service":0,"discount":5,"number_of_times":30,"conditionID":[43501],"Condition_number":[150],"optional":0,"rewardid1":43001,"reward_number1":100000,"rewardid2":0,"reward_number2":0,"rewardid3":0,"reward_number3":0,"rewardid4":0,"reward_number4":0,"help_name":"召唤师商店说明","help_prompt":"召唤师商店均为限时开放，所有商品均有购买次数限制。"},
+"2":{"number_1":2,"full_service":0,"discount":8,"number_of_times":20,"conditionID":[43501],"Condition_number":[240],"optional":0,"rewardid1":45113,"reward_number1":10,"rewardid2":0,"reward_number2":0,"rewardid3":0,"reward_number3":0,"rewardid4":0,"reward_number4":0,"help_name":"召唤师商店说明","help_prompt":"召唤师商店均为限时开放，所有商品均有购买次数限制。"},
+"3":{"number_1":3,"full_service":0,"discount":8,"number_of_times":20,"conditionID":[43501],"Condition_number":[480],"optional":0,"rewardid1":45132,"reward_number1":10,"rewardid2":0,"reward_number2":0,"rewardid3":0,"reward_number3":0,"rewardid4":0,"reward_number4":0,"help_name":"召唤师商店说明","help_prompt":"召唤师商店均为限时开放，所有商品均有购买次数限制。"},
+"4":{"number_1":4,"full_service":0,"discount":8,"number_of_times":10,"conditionID":[43501],"Condition_number":[2400],"optional":0,"rewardid1":45120,"reward_number1":1000,"rewardid2":0,"reward_number2":0,"rewardid3":0,"reward_number3":0,"rewardid4":0,"reward_number4":0,"help_name":"召唤师商店说明","help_prompt":"召唤师商店均为限时开放，所有商品均有购买次数限制。"}
+}

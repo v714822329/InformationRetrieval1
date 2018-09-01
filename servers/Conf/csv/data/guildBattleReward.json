@@ -1,0 +1,12 @@
+{
+"101":{"id":101,"rankMin":1,"rankMax":1,"objID":[43001,48515,41137],"objNum":[5000000,10,20],"objFailNum":[2500000,10,10]},
+"102":{"id":102,"rankMin":2,"rankMax":2,"objID":[43001,48515,41137],"objNum":[4000000,8,18],"objFailNum":[2000000,8,9]},
+"103":{"id":103,"rankMin":3,"rankMax":3,"objID":[43001,48515,41137],"objNum":[3500000,6,16],"objFailNum":[1750000,6,8]},
+"104":{"id":104,"rankMin":4,"rankMax":4,"objID":[43001,48515,41137],"objNum":[3000000,4,14],"objFailNum":[1500000,4,7]},
+"105":{"id":105,"rankMin":5,"rankMax":5,"objID":[43001,48510,41137],"objNum":[2500000,10,12],"objFailNum":[1250000,10,6]},
+"106":{"id":106,"rankMin":6,"rankMax":7,"objID":[43001,48510,41137],"objNum":[2000000,8,10],"objFailNum":[1000000,8,5]},
+"107":{"id":107,"rankMin":8,"rankMax":10,"objID":[43001,48510,41137],"objNum":[1500000,6,8],"objFailNum":[750000,6,4]},
+"108":{"id":108,"rankMin":11,"rankMax":20,"objID":[43001,48510,41137],"objNum":[1000000,4,6],"objFailNum":[500000,4,3]},
+"109":{"id":109,"rankMin":21,"rankMax":30,"objID":[43001,48510,41137],"objNum":[500000,2,4],"objFailNum":[250000,2,2]},
+"110":{"id":110,"rankMin":31,"rankMax":50,"objID":[43001,41137],"objNum":[500000,2],"objFailNum":[250000,1]}
+}

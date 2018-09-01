@@ -1,0 +1,11 @@
+{
+"1":{"number_1":1,"type":7,"number":20,"number_of_times":1,"optional":0,"rewardid1":43001,"reward_number1":80000,"rewardid2":0,"reward_number2":0,"rewardid3":0,"reward_number3":0,"rewardid4":0,"reward_number4":0},
+"2":{"number_1":2,"type":7,"number":30,"number_of_times":1,"optional":0,"rewardid1":43001,"reward_number1":110000,"rewardid2":0,"reward_number2":0,"rewardid3":0,"reward_number3":0,"rewardid4":0,"reward_number4":0},
+"3":{"number_1":3,"type":7,"number":40,"number_of_times":1,"optional":0,"rewardid1":43001,"reward_number1":135000,"rewardid2":0,"reward_number2":0,"rewardid3":0,"reward_number3":0,"rewardid4":0,"reward_number4":0},
+"4":{"number_1":4,"type":7,"number":60,"number_of_times":1,"optional":0,"rewardid1":43001,"reward_number1":160000,"rewardid2":0,"reward_number2":0,"rewardid3":0,"reward_number3":0,"rewardid4":0,"reward_number4":0},
+"5":{"number_1":5,"type":7,"number":80,"number_of_times":1,"optional":0,"rewardid1":43001,"reward_number1":220000,"rewardid2":0,"reward_number2":0,"rewardid3":0,"reward_number3":0,"rewardid4":0,"reward_number4":0},
+"6":{"number_1":6,"type":7,"number":100,"number_of_times":1,"optional":0,"rewardid1":43001,"reward_number1":250000,"rewardid2":0,"reward_number2":0,"rewardid3":0,"reward_number3":0,"rewardid4":0,"reward_number4":0},
+"7":{"number_1":7,"type":7,"number":130,"number_of_times":1,"optional":0,"rewardid1":43001,"reward_number1":300000,"rewardid2":0,"reward_number2":0,"rewardid3":0,"reward_number3":0,"rewardid4":0,"reward_number4":0},
+"8":{"number_1":8,"type":7,"number":160,"number_of_times":1,"optional":0,"rewardid1":43001,"reward_number1":400000,"rewardid2":0,"reward_number2":0,"rewardid3":0,"reward_number3":0,"rewardid4":0,"reward_number4":0},
+"9":{"number_1":9,"type":7,"number":210,"number_of_times":1,"optional":0,"rewardid1":43001,"reward_number1":550000,"rewardid2":0,"reward_number2":0,"rewardid3":0,"reward_number3":0,"rewardid4":0,"reward_number4":0}
+}
